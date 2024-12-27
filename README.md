@@ -1,4 +1,4 @@
-<h2>Seja bem-vindo(a)! Me chamo KAIKI.</h2>
+<h1>Seja bem-vindo(a)! Me chamo KAIKI.</h1>
 
 Estudante de tecnlogia da informaçao <strong>3/4</strong><br>
 Alexania - <strong>GO</strong>
